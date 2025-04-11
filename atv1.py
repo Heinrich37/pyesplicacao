@@ -22,7 +22,7 @@ elif(auton_reser > 7):
      rint("-- Resevartório de Água --")
 
 altura = float(input(" Digite a altura (cm):"))
-largura = float(input(" Digite a largura (cm): ")
+largura = float(input(" Digite a largura (cm): "))
 comprimento = float(input(" Digite o comprimento (cm): "))
 c_diário = float(input("Digite o valor do consumo médio diário(litros/dia)= "))
 
